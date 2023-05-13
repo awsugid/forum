@@ -10,7 +10,7 @@
 Selamat datang di forum diskusi AWS User Group Indonesia ya! Di tempat ini, kamu bisa bertanya, menjawab, atau berdiskusi dengan anggota lain seputar layanan, isu, acara, atau topik menarik lainnya seputar AWS!
 
 ### Memulai
-Sila langsung bertanya, mencari topik menarik, atau menjawab di menu **Discussions**
+Sila langsung bertanya, mencari topik menarik, atau menjawab di menu [**Discussions**](https://github.com/awsugid/forum/discussions)
 
 ### Mari Bergabung
 
